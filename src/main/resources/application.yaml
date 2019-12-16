@@ -1,0 +1,20 @@
+spring:
+  output:
+    ansi:
+      enabled: always
+server:
+  port: 8060
+
+vendor:
+  cors_access:
+    allow_origins: http://*,https://*
+  wx:
+    pay:
+      key: pay_key_test
+      mch_id: mch_id_test
+      url: https://app.*.com/
+    mp:
+      app_id: app_id_test
+      app_secret: app_secret_test
+    config:
+      callback: https://**.com/callback/

@@ -1,0 +1,15 @@
+ ${AnsiColor.BRIGHT_YELLOW}
+ _______ _________ _______  _______
+(  ____ )\__   __/(  ____ \(  ___  )
+| (    )|   ) (   | (    \/| (   ) |
+| (____)|   | |   | |      | (___) |
+|  _____)   | |   | |      |  ___  |
+| (         | |   | |      | (   ) |
+| )      ___) (___| (____/\| )   ( |
+|/       \_______/(_______/|/     \|
+
+ ::: Spring-Boot ${spring-boot.version}     ::: Pica (version:${application.formatted-version})
+
+ ::: we chat pay. blog https://www.oopmind.com :::
+ ::: we chat pay. Demo https://github.com/wangjianan1103/pica.git :::
+ ${AnsiColor.BRIGHT_BLACK}
